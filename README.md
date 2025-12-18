@@ -149,9 +149,8 @@ git checkout main
 
 Si tienes problemas o dudas:
 - Revisa la documentación oficial de [Git](https://git-scm.com/doc)
-- Pregunta en el canal de Slack/Teams del equipo
-- Contacta a [nombre del líder técnico]
-
+- Pregunta en el canal de Teams del equipo
+- Contacta a quien más confianza le tengas
 ---
 
 **¡Feliz colaboración! 💻✨**
